@@ -2,3 +2,4 @@ Flask==3.0.0
 flask-cors==4.0.0
 pythainlp==4.0.2
 deep-translator==1.11.4
+gunicorn
